@@ -7,4 +7,14 @@
 {4,"_$Session$_.Authentication",1},
 {13,1,1},
 {4,"_$Session$_.Start",2},
-{4,"_$Session$_.Finish",3}
+{4,"_$Session$_.Finish",3},
+{4,"_$InfoBase$_.ConfigUpdate",4},
+{4,"_$InfoBase$_.DBConfigUpdateStart",5},
+{4,"_$InfoBase$_.PredefinedDataUpdate",6},
+{5,0e46e5dc-440e-428d-93f3-30ccf9630c2c,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",8},
+{4,"_$Data$_.New",9},
+{5,0e46e5dc-440e-428d-93f3-30ccf9630c2c,"Справочник.Контрагеты",1},
+{4,"_$Transaction$_.Commit",10}
