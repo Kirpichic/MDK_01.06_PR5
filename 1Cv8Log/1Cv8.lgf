@@ -17,4 +17,6 @@
 {4,"_$Transaction$_.Begin",8},
 {4,"_$Data$_.New",9},
 {5,0e46e5dc-440e-428d-93f3-30ccf9630c2c,"Справочник.Контрагеты",1},
-{4,"_$Transaction$_.Commit",10}
+{4,"_$Transaction$_.Commit",10},
+{4,"_$PerformError$_",11},
+{3,"BackgroundJob",3}
